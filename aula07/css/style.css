@@ -1,0 +1,22 @@
+body{
+    display: grid;
+    grid-template-columns: 4fr 2fr 1fr;
+}
+header{
+    background-color: blueviolet;
+}
+nav{
+    background-color: blue;
+}
+section{
+    background-color: aquamarine;
+}
+article{
+    background-color: red;
+}
+footer{
+    background-color: sandybrown;
+}
+aside{
+    background-color: orange;
+}
