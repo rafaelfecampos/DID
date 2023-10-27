@@ -1,0 +1,9 @@
+p{
+    color:blue;
+    font-size: 3rem;
+}
+@media screen and (min-width: 600px) {
+    p{
+        color:red;
+    }
+}
